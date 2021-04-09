@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wangfanxu
+- 👋 Hi, I’m @fanxu
 - 👀 I’m interested in web frontend/backend development
-- 🌱 I’m currently learning VueJS,nodeJS & Java.
-- 💞️ I’m looking to collaborate on javascript/Java projects.
+- 🌱 I’m currently learning Python & NodeJS.
+- 💞️ I’m looking to collaborate on Web Development/Script/Task Automation project.
 - 📫 How to reach me: wangfanxu@gmail.com
 
 <!---
